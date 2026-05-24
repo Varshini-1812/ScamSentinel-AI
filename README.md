@@ -1,7 +1,7 @@
 # 🛡️ ScamSentinel AI
 ### Advanced Job Scam & Fraudulent Internship Detection with Hybrid AI
 
-**Built by [Mancy Reddy](https://github.com/mancyreddy)**  
+**Built by [Varshini Soogoori](https://github.com/Varshini-1812)**  
 *CSE (AI/ML) Undergraduate · Building real-world AI systems*
 
 ---
