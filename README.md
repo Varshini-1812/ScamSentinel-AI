@@ -79,7 +79,7 @@ The underlying model uses a 3-class classification approach:
 ---
 
 ## 👤 Author
-**Mancy Reddy**  
-[GitHub](https://github.com/mancyreddy) | [LinkedIn](https://linkedin.com/in/mancyreddy) | [Portfolio](https://mancyreddy.me)
+**Varshini Soogoori**  
+[GitHub](https://github.com/Varshini-1812) | [LinkedIn](https://www.linkedin.com/in/varshini-soogoori-422058364/) 
 
 *"Building AI that works in the real world."*
